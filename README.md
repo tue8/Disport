@@ -1,6 +1,6 @@
 ## Disport
 ___
-Discord servers' channel chat in your console.
+Discord servers' channel chat in your terminal.
 <br>
 Required module:
 ```
